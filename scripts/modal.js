@@ -57,13 +57,14 @@ $(document).ready(function() {
           'A festival of Asian cuisine if you ask me, such a delicious menu what a shame it is not a real one.',
           link: 'https://main--melapo-sushi.netlify.app/'
 
+      },
+      themall: {
+        title: 'DIGI App',
+        tag: 'A Python and Django-powered playground for all your shopping needs!',
+        detail:
+          'Your mobile website, is a one-stop-shop for all things shopping, comparing, blogging, and paying—like a digital playground for savvy shoppers!',
+          link: 'https://digiapp.pythonanywhere.com/'
       }
-      // themall: {
-      //   title: 'The Mall',
-      //   tag: 'PEER GUIDED SHOPPING.',
-      //   detail:
-      //     'The Mall is a place to follow the latest fashion purchases of your friends and favorite celebrities. Built with Node.js and Handlebars. Features the ability to import thousands of top brands products into one shopping site.'
-      // }
     };
   
     $('#gallery .button').on('click', function() {
