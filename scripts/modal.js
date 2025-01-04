@@ -6,7 +6,7 @@ $(document).ready(function() {
         tag: 'Communicate with the world safe & privately.',
         detail:
         '- A single page web application for sending and receiving emails; Meet your requirements with a mail app like: Sending mails, Mailbox, Viewing mails, Reply & Achiving mails.',
-        link:'https://melinafallahpour.pythonanywhere.com/',
+        link:'https://emailproject.pythonanywhere.com/',
       },
       ordering: {
         title: 'To-do Sheet',
